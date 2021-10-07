@@ -14,7 +14,7 @@ class DetailsBody extends StatelessWidget {
 
     Size size = MediaQuery.of(context).size;
     return ListView(
-      //crossAxisAlignment: CrossAxisAlignment.start,
+
       children: [
         Container(
           width: double.infinity,
