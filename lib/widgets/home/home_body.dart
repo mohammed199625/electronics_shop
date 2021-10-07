@@ -8,7 +8,7 @@ class HomeBody extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return SafeArea(
-      bottom: false,
+     // bottom: false,
       child: Column(
         children: [
           SizedBox(height: kDefaultPadding / 2),
