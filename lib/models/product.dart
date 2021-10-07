@@ -20,7 +20,7 @@ List<Product> products = [
     subTitle: "جودة صوت عالية",
     image: "images/airpod.png",
     description:
-        "لوريم ايبسوم دولار سيت أميت ,كونسيكتيتور أدايبا يسكينج أليايت,سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا.",
+        "The details you provide for a product affect the way the product appears to customers, make it easier for you to organize your products, and help customers find the product. You don\'t have to provide every detail for each product",
   ),
   Product(
     id: 2,
@@ -29,7 +29,7 @@ List<Product> products = [
     subTitle: "وأصبح للموبايل قوة",
     image: "images/mobile.png",
     description:
-        "لوريم ايبسوم دولار سيت أميت ,كونسيكتيتور أدايبا يسكينج أليايت,سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا.",
+        "The details you provide for a product affect the way the product appears to customers, make it easier for you to organize your products, and help customers find the product. You don\'t have to provide every detail for each product",
   ),
   Product(
     id: 3,
@@ -38,7 +38,7 @@ List<Product> products = [
     subTitle: "لنقلك للعالم الافتراضي",
     image: "images/class.png",
     description:
-        "لوريم ايبسوم دولار سيت أميت ,كونسيكتيتور أدايبا يسكينج أليايت,سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا.",
+        "The details you provide for a product affect the way the product appears to customers, make it easier for you to organize your products, and help customers find the product. You don\'t have to provide every detail for each product",
   ),
   Product(
     id: 4,
@@ -47,7 +47,7 @@ List<Product> products = [
     subTitle: "لساعات استماع طويلة",
     image: "images/headset.png",
     description:
-        "لوريم ايبسوم دولار سيت أميت ,كونسيكتيتور أدايبا يسكينج أليايت,سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا.",
+        "The details you provide for a product affect the way the product appears to customers, make it easier for you to organize your products, and help customers find the product. You don\'t have to provide every detail for each product",
   ),
   Product(
     id: 5,
@@ -56,7 +56,7 @@ List<Product> products = [
     subTitle: "سجل اللحظات المهمة حولك",
     image: "images/speaker.png",
     description:
-        "لوريم ايبسوم دولار سيت أميت ,كونسيكتيتور أدايبا يسكينج أليايت,سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا.",
+        "The details you provide for a product affect the way the product appears to customers, make it easier for you to organize your products, and help customers find the product. You don\'t have to provide every detail for each product",
   ),
   Product(
     id: 6,
@@ -65,6 +65,6 @@ List<Product> products = [
     subTitle: "بجودة ودقة صورة عالية",
     image: "images/camera.png",
     description:
-        "لوريم ايبسوم دولار سيت أميت ,كونسيكتيتور أدايبا يسكينج أليايت,سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا.",
+        " details you provide for a product affect the way the product appears to customers, make it easier for you to organize your products, and help customers find the product. You don\'t have to provide every detail for each product",
   ),
 ];

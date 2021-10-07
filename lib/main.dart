@@ -13,7 +13,6 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Electrical Store',
       theme: ThemeData(
         textTheme: GoogleFonts.almaraiTextTheme(Theme.of(context).textTheme),
         primaryColor: kPrimaryColor,
